@@ -359,6 +359,10 @@ p {
 
 /* Customers section */
 
+.customers-section {
+  padding-top: 130px;
+}
+
 .customers-list {
   display: flex;
   gap: 24px;
@@ -375,15 +379,23 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 16px 32px;
-  border: 1px solid currentColor;
+  width: 168px;
+  height: 88px;
+  color: #8e8f99;
+  border: 1px solid #8e8f99;
   border-radius: 4px;
-  color: #404bbf;
 }
 
-.customers-list-icon {
+.brend {
   fill: currentColor;
 }
+
+.customers-list-link:hover,
+.customers-list-link:focus {
+  color: var(--pressed-bg-cl);
+  border: 1px solid var(--pressed-bg-cl);
+}
+
 /* Footer section */
 
 .footer {
