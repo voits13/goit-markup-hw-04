@@ -30,26 +30,26 @@
     <symbol id="icon-linkedin" viewBox="0 0 32 32">
       <path d="M32 32V20c0-5-1-10-8-10-3 0-5 2-6 4v-3h-7v21h7V21c0-2 0-5 4-5 3 0 3 3 3 6v10h7zM1 11h6v21H1V11zM4 0C2 0 0 2 0 4s2 4 4 4 4-2 4-4-2-4-4-4z"/>
     </symbol>
-    <symbol id="icon-Logo" viewBox="0 0 59 32">
+    <symbol id="icon-logo-yaco" viewBox="0 0 59 32">
       <path d="m22 4 4 4h-8v18h20v-7l4 4V4H22zm16 15L26 8h12v11zm-4 5H21V11h1v12h12v1zm-10 6-1-1 1 1v1-1l1-1h-1v1zm2-1v2-1h-1v1-2h1zm-1 1h1v-1l-1 1zm3 0v-1h-1 1v1h1v1h-2v-1h1zm0 0v1a1 1 0 0 0 0-1zm0 0v-1 1zm4 0h-1v1h-1v-2c0-1 0 0 0 0h1c1 0 0 0 0 0h1-2v2a1 1 0 0 0 1 0l1-1zm1 0v-1h-1v2a1 1 0 0 0 1 0v-1zm0 0v1c0 1 0 0 0 0h-1v-2c0-1 0 0 0 0h1v1z"/>
     </symbol>
-    <symbol id="icon-Logo-1" viewBox="0 0 59 32">
+    <symbol id="icon-logo-th" viewBox="0 0 59 32">
       <path d="M29 3h-1a14 14 0 0 0-1 0l-6 2v13h1a22 22 0 0 1 6-2v2h-1a19 19 0 0 0-8 2V4a17 17 0 0 1 9-2 16 16 0 0 1 3 0v2l-2-1zm3 2h1a18 18 0 0 0 8-2v16a17 17 0 0 1-12 2V5a13 13 0 0 0 3 0zm8 0h-1l-2 1a20 20 0 0 1-5 0h-1v13h1l1 1a15 15 0 0 0 6-2h1V5zM20 26a1 1 0 0 0-1 0v4h1a1 1 0 0 0 1-1v-1h-1v1h-1v-3h1v1h1a1 1 0 0 0-1-1zM24 26a1 1 0 0 0-1 0 1 1 0 0 0-1 0v3h1v1a1 1 0 0 0 1-1v-3zm0 3h-1v-3h1v3zM28 30v-4l-1 2-1-2v4-3l1 2 1-2v3zM31 26h-1v4-2h2v-1a3 3 0 0 0 0-1h-1zm0 1h-1v-1h1v1zM34 26l-1 4v-1h1v1h1l-1-4zm0 2v-1 1zM38 28l-1-2h-1v4h1v-3l1 3v-4 2zM41 26v1l-1-1v4h1v-2l1-2h-1zM19 31h1v-1h-1v1zM21 30v1h1l-1-1zm0 1zM23 31h1-1 1l-1-1v1h1-1zM26 30h-1v1h1v-1zM28 30h-1v1h1v-1zM30 31l-1-1v1h1v-1 1zM31 31h1-1 1v-1h-1v1h1-1zM35 31v-1 1h1v-1h-1v1zM37 31h1-1 1v-1h-1v1h1-1zM39 31h1l-1-1v1h1-1zm0 0zM41 31h1-1 1v-1h-1v1h1-1z"/>
     </symbol>
-    <symbol id="icon-Logo-2" viewBox="0 0 59 32">
+    <symbol id="icon-logo-company" viewBox="0 0 59 32">
       <path d="m21 28-1 1v-1h-1a1 1 0 0 1 0-1 1 1 0 0 1 1 0 2 2 0 0 1 1 0 1 1 0 0 0-1 0v1h1zM25 28h-3v-1a1 1 0 0 1 1 0h1a1 1 0 0 1 1 1zm-1 0v-1h-1v1h1zM27 28l1-1v2-2l-1 1-1-1v2-2l1 1zM30 28v1-2h1v1h-1zm0 0h1v-1h-1v1zM34 29v-1h-1l-1 1 1-2 1 2zm-1-1h1l-1-1v1zM36 27l1 1v-1h1v2h-1v-1l-1-1v2-2zM40 28v1-1l-1-1h1a2 2 0 0 1 0 1v-1h1l-1 1zM27 23l6-4c2-2 1-3 1-5l-2-2c1 2 0 4-1 6l-4 5z"/>
       <path d="m26 23 5-5v-7l-3-3 2 8-4 7zM38 16l-4 6-2 1 4-2 3-4-1-1zM37 16l-2-2-2 5-4 4h1l4-3 3-4z"/>
       <path d="m26 7-2-2-5 4-2 5 2 6c1 2 4 2 6 3 3-2 4-5 4-8s-1-6-3-8zM42 15l-3-6a12 12 0 0 0-12-2l15 12v-4z"/>
     </symbol>
-    <symbol id="icon-Logo-3" viewBox="0 0 59 32">
+    <symbol id="icon-logo-fp" viewBox="0 0 59 32">
       <path d="M14 12c-2 0-3 1-3 3 0 1 1 2 3 2l2-2c0-2-1-3-2-3zM32 12l-2-5-5-2-5 2-2 5v9s14-1 14-9zM6 24l2 3 3 2 4-2 1-3v-6S6 19 6 24zm5 1h-1v-2h2a1 1 0 0 1 0 2 1 1 0 0 1-1 0zM20 23v3-3zm1 1v1h-1v-1h1zm0-1v1h-1v-1h1zm3 1v1h-1v1h-1v-3h1l1 1zm-1 0h-1v1h1v-1zm2 1v-1h-1v-1h2v1h-1 1v1l-1 1-1-1h1zm2-2v3-3zm1 0v1h-2v-1h2zm2 2v1h-1v-1h1zm-1-2v3h-1v-3h1zm1 1v1h-1v-1h1zm0-1v1h-1v-1h1zm0 0h2v2h-1v-1h1-1v2h-1v-3zm2 3-1-1h1v1zm2-1v-1h1-1c-1 0 0 0 0 0v2h-1v-3h2a1 1 0 0 1 0 1v1h-1zm3 0v1h-1v-1h1zm-1-2v3-3zm1 1v1h-1v-1h1zm0-1v1h-1v-1h1zm2 0v3h-1v-3h1zm0 0v1h-2v-1h2zm2 2v1h-1v-1h1zm-1-2v3-3zm1 1v1h-1v-1h1zm0-1v1h-1v-1h1zm1 0h1v2h-1v-1h1-1v2-3zm1 3-1-1h1v1zm2-1-1-1v-1a1 1 0 0 1 1 0v1h-1 1v1h1-1v1h-1v-1h1z"/>
     </symbol>
-    <symbol id="icon-Logo-4" viewBox="0 0 59 32">
+    <symbol id="icon-logo-brand" viewBox="0 0 59 32">
       <path d="m15 25 1 1h-1v1h-2v-4h1l1 1v1zm-2 0h2v-1h-2v1zm2 1v-1h-2v1h2zM19 27l-1-2h-1v2-4h1l1 1v1l1 2h-1zm-2-2h1l1-1h-2v1zM23 26h-2v1h-1l2-4h1l1 4h-1v-1zm0 0-1-2v2h1zM28 27l-2-3v3h-1v-4h1l2 3v-3 4zM33 26l-1 1h-2v-4h1l1 1h1a2 2 0 0 1 0 2zm-1 0v-2h-2v2h2zM23 4s10 3 10 8v9s-10-4-10-9V4zM42 19c2-2 4-2 7-3v-2c-3 1-5 2-7 5z"/>
       <path d="M41 19c2-2 4-5 8-6V6s-15 5-14 12v12l1-1v-1c1-3 2-6 5-9z"/>
       <path d="M40 24v-3a11 11 0 0 0-3 8l3-2v-3zM40 24v3c4-2 9-5 9-9v-1l-8 3-1 4z"/>
     </symbol>
-    <symbol id="icon-Logo-5" viewBox="0 0 59 32">
+    <symbol id="icon-logo-tl" viewBox="0 0 59 32">
       <path d="m31 16-1-1v-2l1-1 1-1 1 1v1h-1v-1h-1v3h1c1 0 0 0 0 0v-1h1v2h-2zM35 16l-1-1v-2l1-1 1-1 1 1v4h-2zm1-1v-3h-1c-1 0 0 0 0 0v3h1zM38 11h1l1 4 1-4h1v5h-1v-3l-1 3-1-3v3h-1v-5zM43 11h2l1 2-1 1h-1v2h-1v-5zm1 2a1 1 0 0 0 1 0v-1h-1v1zM47 11h2l1 5h-1l-1-1-1 1h-1l1-5zm1 3v-2 2zM50 11h1l1 3v-3h1v5l-2-3v3h-1v-5zM55 14l-1-3h1l1 2v-2h1l-1 3v2h-1v-2zM32 18h-1v2-2h-1 2zM35 20h-3l1-2h1l1 2zm-2-1h1-1v-1 1zM36 20a1 1 0 0 0 1 0v-1h-1 1v1h-2v-2h1a2 2 0 0 1 1 0 1 1 0 0 0-1 0v1h-1l1 1zM39 20h1-1v-2 2zM42 20h-1v-2h1v2zM43 18l1 2v-2h1v2h-1l-1-1v1-2zM47 18h-1v1h1-1v1h1-2v-2h2zM12 5l15 4v12l-15-3V5zm-1-1v14l17 4V8L11 4z"/>
       <path d="M20 29 3 25V11l17 4v14z"/>
       <path d="m11 5 15 3-6 6-15-4 6-5zm0-1-8 7 17 4 8-7-17-4zM21 28l7-6-7-1v7z"/>
