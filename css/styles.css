@@ -381,9 +381,9 @@ p {
   align-items: center;
   width: 168px;
   height: 88px;
-  color: #8e8f99;
   border: 1px solid #8e8f99;
   border-radius: 4px;
+  color: #8e8f99;
 }
 
 .brend {
@@ -392,8 +392,8 @@ p {
 
 .customers-list-link:hover,
 .customers-list-link:focus {
-  color: var(--pressed-bg-cl);
   border: 1px solid var(--pressed-bg-cl);
+  color: var(--pressed-bg-cl);
 }
 
 /* Footer section */
@@ -443,7 +443,10 @@ p {
 }
 
 .footer-link {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
   height: 40px;
   border: none;
   border-radius: 50%;
@@ -456,7 +459,6 @@ p {
 }
 
 .icon {
-  margin: 8px;
   fill: var(--white-bg-cl);
 }
 
